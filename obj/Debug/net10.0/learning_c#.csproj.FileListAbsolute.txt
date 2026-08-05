@@ -1,0 +1,14 @@
+C:\Users\angel\source\repos\learning_c#\learning_c#\obj\Debug\net10.0\learning_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\learning_c#\learning_c#\obj\Debug\net10.0\learning_c#.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\learning_c#\learning_c#\obj\Debug\net10.0\learning_c#.AssemblyInfo.cs
+C:\Users\angel\source\repos\learning_c#\learning_c#\obj\Debug\net10.0\learning_c#.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\learning_c#\learning_c#\bin\Debug\net10.0\learning_c#.exe
+C:\Users\angel\source\repos\learning_c#\learning_c#\bin\Debug\net10.0\learning_c#.deps.json
+C:\Users\angel\source\repos\learning_c#\learning_c#\bin\Debug\net10.0\learning_c#.runtimeconfig.json
+C:\Users\angel\source\repos\learning_c#\learning_c#\bin\Debug\net10.0\learning_c#.dll
+C:\Users\angel\source\repos\learning_c#\learning_c#\bin\Debug\net10.0\learning_c#.pdb
+C:\Users\angel\source\repos\learning_c#\learning_c#\obj\Debug\net10.0\learning_c#.dll
+C:\Users\angel\source\repos\learning_c#\learning_c#\obj\Debug\net10.0\refint\learning_c#.dll
+C:\Users\angel\source\repos\learning_c#\learning_c#\obj\Debug\net10.0\learning_c#.pdb
+C:\Users\angel\source\repos\learning_c#\learning_c#\obj\Debug\net10.0\learning_c#.genruntimeconfig.cache
+C:\Users\angel\source\repos\learning_c#\learning_c#\obj\Debug\net10.0\ref\learning_c#.dll
