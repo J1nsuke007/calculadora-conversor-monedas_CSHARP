@@ -1,3 +1,3 @@
-Es un conversor de monedas
+Es un conversor de monedas basico
 
-pasa
+Pasa de la moneda colombiana a monedas extranjeras, incluso en viceversa
